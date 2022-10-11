@@ -1,1 +1,1 @@
-Shell basics
+Print on a script
